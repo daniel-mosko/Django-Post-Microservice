@@ -5,9 +5,10 @@
 Clone this repository: https://github.com/daniel-mosko/Django-Post-Microservice
 
 1. Open folder location with CMD
-2. Activate virtual environment: venv\Scripts\Activate
+2. Activate virtual environment:
+   venv\Scripts\Activate
 3. cd microservice
-4. Run server: py manage.py runserver
+4. py manage.py runserver
 
 Open development server at given URL (default http://127.0.0.1:8000/)
 
