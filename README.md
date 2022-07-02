@@ -2,7 +2,7 @@
 
 ## Installation and usage
 
-https://github.com/daniel-mosko/Django-Post-Microservice
+Clone this repository: https://github.com/daniel-mosko/Django-Post-Microservice
 
 1. Open folder location with CMD
 2. venv\Scripts\Activate
